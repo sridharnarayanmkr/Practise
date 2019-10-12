@@ -1,4 +1,5 @@
 public class MatrixPathFourDirection {
+    //More like a rat in a maze
     public static void main(String[] args) {
         int[][] mat = { { 1, 0, 0, 0 },
                 { 1, 1, 0, 1 },
